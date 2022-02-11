@@ -1,30 +1,382 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Gilbert Sanchez</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-database"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Gilbert Sanchez</h1>
+								<p> Problem Solver. Amateur Creative. Open Door.</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#about me">About</a></li>
+								<li><a href="#problem solver">Problem</a></li>
+								<li><a href="#amateur creative">Amateur</a></li>
+								<li><a href="#open door">Open</a></li>
+								<li><a href="#contact">Contact</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- About -->
+							<article id="about me">
+								<h2 class="major">About</h2>
+								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+								<p> My name is Gilbert and I am most passionate about problem solving through data and creativity.  I began my career in the United States Marine Corps while also majoring in Psychology at the Barrett Honors College at Arizona State University.  At the start of COVID lockdown, I was able to transition my career into data by completing an analytics coding camp and have since been able to achieve my goal of having a career working with data. I currently work remotely as a Business Analyst for Pennymac LLC, enabling leaders in the company to make strategic decisions that positively impact customer experience, financial gain, and internal growth.  Among my many skills, I primarily use Excel, SQL relational databases, Tableau, and Python to explore and solve the many problems that arise when working with large datasets.</p>
+								<p> When I'm not working with data I take great enjoyment in trying new creative pursuits of all types. I believe that art and creativity not only increase the quality of life, but also can also expand different avenues of approaching real-world problems. Specifically, in creating art you are challenging yourself on how you approach learning, and how you can be resourceful in order to achieve the end product that you envision. Some examples of ventures that I've adopted are digital illustration, podcasting, video production, and photography --all of which I never previously thought I was capable of.</p>
+								<p> Lastly, I try to adopt the core values of curiosity, adaptability, and approachability in and out of the workplace. Curiosity enables me to be open to learning and figuring out solutions to any problem. Adaptability causes me to be open to growth and change, regardless of if that growth and change are within my own personal control. Approachability is also vital because it allows me to embrace diversity in others and be both a friend and resource to others.</p>
+								<p> I love getting to know new people and having engaging conversations about whatever you are passionate about. If you have any questions or want to connect, please feel free to <a href="#Contact">reach out!</a>.</p>
+							
+							</article>
+
+						<!-- Problem -->
+							<article id="problem solver">
+								<h2 class="major">Problem</h2>
+								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
+								<p> I have a range of skills and proficiency with analytical tools to discover insights and provide pragmatic solutions to problems. A recent project where I demonstrated these skills were part of a workforce data analysis to understand how Underwriter hours affected productivity constraints at Pennymac. By extracting data through Excel and SQL relational databases, I was able to measure inflow of loans within the customer pipeline, and compare this to a standardized list of available Underwriters. By doing so, myself and my team members were able to discover which hours were severely lacking available Underwriters and could suggest practical solutions for moving working hours to meet the pipeline demand.</p>
+								<p> Some important skills and methods to highlight:<p>
+								<ul>
+  									<li>Data manipulation</li>
+  									<li>Data mining and analysis</li>
+  									<li>Probability and statistics</li>
+  									<li>Data visualization</li>
+  									<li>Data reporting</li>
+  									<li>Dashboarding</li>
+  									<li>Workflow automation</li>
+								</ul> 
+
+							</article>
+
+						<!-- Amateur -->
+							<article id="amateur creative">
+								<h2 class="major">Amateur</h2>
+								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+								<p> I find enjoyment in expanding my creative horizons by trying new tools and mediums that I have never been exposed to in the past. My podcast, Between the Soup, for instance, is aimed at interviewing individuals to learn about the experiences unique to them. From speaking with a variety of guests on topics like data, creativity, work/life balance, psychology, and more, I am able to strengthen relationships with others and bring awareness to insights and ideas that I may not have known otherwise.</p>
+								<p> Some important skills to highlight:<p>								
+								<ul>
+  									<li>Audio editing</li>
+  									<li>Audio enhancement</li>
+  									<li>Graphic design</li>
+  									<li>Digital illustration</li>
+  									<li>Video editing</li>
+  									<li>Visual storytelling</li>
+  									<li>Social media Engagement</li>
+								</ul>
+							</article>
+
+						<!-- Open -->
+							<article id="open door">
+								<h2 class="major">Open</h2>
+								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+								<p> I love working collaboratively and getting to know my coworkers so that both work and play are meaningful. I believe that having a close connection with others not only makes day-to-day challenges more enjoyable, but it also can make achieving a personal or company goal quicker and easier. Some of the ways that I love to get to know others are through sharing memes, food and music recommendations, and conversation beyond small talk.</p>
+								<p> Some important skills and qualities to highlight:<p>								
+								<ul>
+  									<li>Confident leadership</li>
+  									<li>Effective verbal and written communication</li>
+  									<li>Emotional intelligence</li>
+  									<li>Digital illustration</li>
+  									<li>Approachability</li>
+								</ul>
+							</article>
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+						<!-- Contact -->
+							<article id="contact">
+								<h2 class="major">Contact</h2>
+								
+								<ul class="icons">
+									
+									<li><a href="https://www.linkedin.com/in/gilbert-x-sanchez/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/gilbertxsanchez/github.io" class="icon fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://public.tableau.com/profile/gilbert.sanchez#!/" class="icon fa-plus"><span class="label">Tableau</span></a></li>
+								</ul>
+							</article>
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+						<!-- Elements -->
+							<article id="elements">
+								<h2 class="major">Elements</h2>
 
-(* = not included)
+								<section>
+									<h3 class="major">Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
+									<hr />
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h4>Preformatted</h4>
+									<pre><code>i = 0;
 
-AJ
-aj@lkn.io | @ajlkn
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
 
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+								</section>
 
-Credits:
+								<section>
+									<h3 class="major">Lists</h3>
 
-	Demo Images:
-		Unsplash (unsplash.com)
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
 
-	Icons:
-		Font Awesome (fontawesome.io)
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Table</h3>
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								<section>
+									<h3 class="major">Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button primary icon fa-download">Icon</a></li>
+										<li><a href="#" class="button icon fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Form</h3>
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</section>
+
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright"> Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
