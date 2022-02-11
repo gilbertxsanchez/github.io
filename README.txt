@@ -30,10 +30,10 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about me">About</a></li>
-								<li><a href="#problem solver">Problem</a></li>
-								<li><a href="#amateur creative">Amateur</a></li>
-								<li><a href="#open door">Open</a></li>
+								<li><a href="#about_me">About</a></li>
+								<li><a href="#problem_solver">Problem</a></li>
+								<li><a href="#amateur_creative">Amateur</a></li>
+								<li><a href="#open_door">Open</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
@@ -44,7 +44,7 @@
 					<div id="main">
 
 						<!-- About -->
-							<article id="about me">
+							<article id="about_me">
 								<h2 class="major">About</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
 								<p> My name is Gilbert and I am most passionate about problem solving through data and creativity.  I began my career in the United States Marine Corps while also majoring in Psychology at the Barrett Honors College at Arizona State University.  At the start of COVID lockdown, I was able to transition my career into data by completing an analytics coding camp and have since been able to achieve my goal of having a career working with data. I currently work remotely as a Business Analyst for Pennymac LLC, enabling leaders in the company to make strategic decisions that positively impact customer experience, financial gain, and internal growth.  Among my many skills, I primarily use Excel, SQL relational databases, Tableau, and Python to explore and solve the many problems that arise when working with large datasets.</p>
@@ -55,7 +55,7 @@
 							</article>
 
 						<!-- Problem -->
-							<article id="problem solver">
+							<article id="problem_solver">
 								<h2 class="major">Problem</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p> I have a range of skills and proficiency with analytical tools to discover insights and provide pragmatic solutions to problems. A recent project where I demonstrated these skills were part of a workforce data analysis to understand how Underwriter hours affected productivity constraints at Pennymac. By extracting data through Excel and SQL relational databases, I was able to measure inflow of loans within the customer pipeline, and compare this to a standardized list of available Underwriters. By doing so, myself and my team members were able to discover which hours were severely lacking available Underwriters and could suggest practical solutions for moving working hours to meet the pipeline demand.</p>
@@ -73,7 +73,7 @@
 							</article>
 
 						<!-- Amateur -->
-							<article id="amateur creative">
+							<article id="amateur_creative">
 								<h2 class="major">Amateur</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
 								<p> I find enjoyment in expanding my creative horizons by trying new tools and mediums that I have never been exposed to in the past. My podcast, Between the Soup, for instance, is aimed at interviewing individuals to learn about the experiences unique to them. From speaking with a variety of guests on topics like data, creativity, work/life balance, psychology, and more, I am able to strengthen relationships with others and bring awareness to insights and ideas that I may not have known otherwise.</p>
@@ -90,7 +90,7 @@
 							</article>
 
 						<!-- Open -->
-							<article id="open door">
+							<article id="open_door">
 								<h2 class="major">Open</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
 								<p> I love working collaboratively and getting to know my coworkers so that both work and play are meaningful. I believe that having a close connection with others not only makes day-to-day challenges more enjoyable, but it also can make achieving a personal or company goal quicker and easier. Some of the ways that I love to get to know others are through sharing memes, food and music recommendations, and conversation beyond small talk.</p>
