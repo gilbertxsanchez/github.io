@@ -30,10 +30,10 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">About Me</a></li>
-								<li><a href="#problem">Problem Solver</a></li>
-								<li><a href="#amateur">Amateur Creative</a></li>
-								<li><a href="#open">Open Door</a></li>
+								<li><a href="#about">About</a></li>
+								<li><a href="#problem">Problem</a></li>
+								<li><a href="#amateur">Amateur</a></li>
+								<li><a href="#open">Open</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
@@ -43,7 +43,7 @@
 				<!-- Main -->
 					<div id="main">
 
-						<!-- About Me -->
+						<!-- About -->
 							<article id="about">
 								<h2 class="major">About Me</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
@@ -54,7 +54,7 @@
 							
 							</article>
 
-						<!-- Problem Solver -->
+						<!-- Problem -->
 							<article id="problem">
 								<h2 class="major">Problem Solver</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
@@ -72,7 +72,7 @@
 
 							</article>
 
-						<!-- Amateur Creative-->
+						<!-- Amateur -->
 							<article id="amateur">
 								<h2 class="major">Amateur Creative</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
@@ -89,7 +89,7 @@
 								</ul>
 							</article>
 
-						<!-- Open Door -->
+						<!-- Open -->
 							<article id="open">
 								<h2 class="major">Open Door</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
